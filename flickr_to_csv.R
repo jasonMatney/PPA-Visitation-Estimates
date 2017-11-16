@@ -20,8 +20,8 @@ setwd("/Users/jason/Desktop/PhD_Chapter_2")
 # Flicker API access keys 
 # Key must have single quotations around it
 # Example: 'A8MNR7997LLOP123'
-api_key = 'fb0770fdb6ba981344401f2bf9339fe2'
-api_secret = '9ccdcb574ae4c13a'
+api_key = ''
+api_secret = ''
   
 # Create function to return URL using flickr.photos.search 
 # More information at https://www.flickr.com/services/api/flickr.photos.search.html
