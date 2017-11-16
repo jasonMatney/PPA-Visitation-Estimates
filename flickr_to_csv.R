@@ -14,7 +14,7 @@ require (rjson)
 require(RJSONIO)
 
 # Set working directory with path name in quoation marks and / instead of \
-setwd("/Users/jason/Desktop/PhD_Chapter_2")
+setwd("")
 
 
 # Flicker API access keys 
