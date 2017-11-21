@@ -80,7 +80,7 @@ for (j in 1:numPages){
   
   # Read photo information for each photo on the current page.
   for (i in 1:numPhotos){ 
-    print(paste("we are processing photo number", i, "out of", numPhotos, "on page", pageNum))
+    print(paste("we are processing photo number", i, "out of", numPhotos, "on page", j))
     id = data1$photos$photo[[i]]$id
     title = data1$photos$photo[[i]]$title
     lat = data1$photos$photo[[i]]$latitude
